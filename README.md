@@ -18,7 +18,7 @@ I'm keen to collaborate on projects related to:
 Feel free to reach out to me via:
 
 Email: 02arshsarna@gmail.com
-LinkedIn: [Arshdeep Kaur](https://www.linkedin.com/in/arshdeep-kaur-wadehra-4ba8a4226/)
+LinkedIn: [Arshdeep Kaur](https://www.linkedin.com/in/wadehrarsh)
 
 😄 Pronouns
 She/Her
