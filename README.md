@@ -1,23 +1,12 @@
 👋 Hi, I’m Arshdeep Kaur
   
-🌱 Currently Learning
-Currently, I'm honing my skills in:
-
-**JavaScript**: Strengthening my understanding of core concepts and diving deeper into frameworks like React.
-**HTML & CSS**: Mastering the fundamentals to craft beautiful and responsive web layouts.
-**Git & GitHub**: Learning best practices for version control and collaborating on projects.
-
-💞️ Looking to Collaborate On
-I'm keen to collaborate on projects related to:
-
-**Frontend Development**: Building user-friendly interfaces and bringing designs to life.
-**Web Application Development**: Creating interactive and dynamic web applications.
-**Open Source Projects**: Contributing to meaningful projects and learning from experienced developers.
+🌱 A Data Analyst with a passion for turning complex data into clear insights. Proficient in Python 🐍, SQL 🗄️, PowerBI 📊, and Tableau 📈, I specialize in data visualization, statistical analysis
+I recently earned the IBM Data Analyst Specialization 🎓, which has further honed my skills in extracting valuable insights from data. I’m excited about leveraging data to solve real-world problems and stay updated with the latest in predictive analytics and machine learning.
 
 📫 How to Reach Me
 Feel free to reach out to me via:
 
-Email: 02arshsarna@gmail.com
+Email: arshdeepwadehra@gmail.com
 LinkedIn: [Arshdeep Kaur](https://www.linkedin.com/in/wadehrarsh)
 
 😄 Pronouns
