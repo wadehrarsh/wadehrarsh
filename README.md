@@ -1,17 +1,26 @@
-👋 Hi, I’m Arshdeep Kaur
-  
-🌱 A Data Analyst with a passion for turning complex data into clear insights. Proficient in Python 🐍, SQL 🗄️, PowerBI 📊, and Tableau 📈, I specialize in data visualization, statistical analysis
-I recently earned the IBM Data Analyst Specialization 🎓, which has further honed my skills in extracting valuable insights from data. I’m excited about leveraging data to solve real-world problems and stay updated with the latest in predictive analytics and machine learning.
+# Arshdeep Kaur Wadehra 
 
-📫 How to Reach Me
-Feel free to reach out to me via:
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-Email: arshdeepwadehra@gmail.com
-LinkedIn: [Arshdeep Kaur](https://www.linkedin.com/in/wadehrarsh)
+### Data Analyst 💻
 
-😄 Pronouns
-She/Her
+I'm an MBA graduate with IBM Data Analyst certification and Microsoft certifications in Power BI (PL-300) and data analysis. I combine business acumen with expertise in advanced data analysis tools and techniques. 
 
-⚡ Fun Fact
-I'm an avid puzzle solver and fitness enthusiast. Whether it's cracking brain teasers or hitting the gym, I love a good challenge!
+🌐 [LinkedIn](https://www.linkedin.com/in/wadehrarsh/) | 📧 [Email](mailto:hello@arshdeepkaur.in) | 🐙 [GitHub](https://github.com/wadehrarsh)
 
+## 🛠️ Skills
+
+**Languages:** SQL, Python, MySQL  
+**Tools:** PowerBI, Tableau, Excel, Jupyter Notebook, DAX, Power Query  
+**Frameworks/Libraries:** Pandas, NumPy  
+**Technical Skills:** Data Analysis, Data Visualization, Statistical Analysis  
+**Soft Skills:** Problem-Solving, Critical Thinking, Effective Communication
+
+## 📚 Certifications
+
+- [Microsoft Certified: Power BI Data Analyst Associate (PL-300) ](https://learn.microsoft.com/en-us/users/ArshdeepWadehra-7260/credentials/1C87B64A53668D8?ref=https%3A%2F%2Fwww.canva.com%2F)
+- [IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/XDUT5PEXU357)
+- [SQL Intermediate from Hackerrank](https://www.hackerrank.com/certificates/821897a92c52)
+
+## 🤝 Connect with me
+Feel free to reach out! I'm always eager to discuss new data projects, collaborations, or just to chat about the latest trends in data analytics.
